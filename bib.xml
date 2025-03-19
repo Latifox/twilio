@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Dial callerId="+18146467316">
-    +19125757605
-  </Dial>
+    <Pause length="20"/>
+    <Reject reason="busy"/>
 </Response>
